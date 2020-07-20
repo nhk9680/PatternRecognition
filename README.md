@@ -1,6 +1,9 @@
 # PatternRecognition
 2019년 2학기 패턴인식
 
+![image](https://user-images.githubusercontent.com/30471027/87918016-c5cfb480-cab0-11ea-8756-8a71a329d5df.png)
+
+
 [Report PPT](https://www.slideshare.net/NamhoonKim18/bag-of-visual-words)
 
 # Reference
