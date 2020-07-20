@@ -1,6 +1,8 @@
 # PatternRecognition
 2019년 2학기 패턴인식
 
+[Report PPT](https://www.slideshare.net/NamhoonKim18/bag-of-visual-words)
+
 # Reference
 
 ## official libraries
@@ -25,7 +27,7 @@
 
 - [wihoho/Image-Recognition](https://github.com/wihoho/Image-Recognition)
 
-- [thundersvm(SVM GPU Accelation](https://github.com/Xtra-Computing/thundersvm.git)
+- [thundersvm(SVM GPU Accelation)](https://github.com/Xtra-Computing/thundersvm.git)
 
 ### peer's kaggle discussion
 
